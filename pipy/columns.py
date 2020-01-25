@@ -1,0 +1,2 @@
+class All:
+    pass
